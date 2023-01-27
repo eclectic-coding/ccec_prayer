@@ -3,7 +3,7 @@
   "private": "true",
   "dependencies": {
     "@hotwired/turbo-rails": "^7.2.4",
-    "esbuild": "^0.17.4"
+    "esbuild": "^0.17.5"
   },
   "scripts": {
     "build": "node esbuild.config.js"
